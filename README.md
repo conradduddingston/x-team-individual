@@ -1,2 +1,4 @@
-# x-team-individual
-X team individual project
+# Conrad Duddingston
+
+## My Team Rule
+
